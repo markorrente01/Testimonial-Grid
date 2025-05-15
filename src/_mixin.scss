@@ -1,0 +1,5 @@
+@mixin font-barlow($weight: 400, $style: normal) {
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-weight: $weight;
+  font-style: $style;
+}
