@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution url](https://www.frontendmentor.io/solutions/testimonial-grid-using-css-grid-layout-and-responsive-design-81S1JWX_5k)
+- Live Site URL: [live site url](https://markorrente01.github.io/Testimonial-Grid/)
 
 ## My process
 
